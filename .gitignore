@@ -1,0 +1,44 @@
+# Log files
+*.log
+dancing_figures.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local configuration
+.env
+.env.local
