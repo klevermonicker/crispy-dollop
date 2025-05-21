@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger("dancing_figures")
 
 # Configuration with your specific repository
-REPO_NAME = "bookish-octo-fortnight"
+REPO_NAME = "crispy-dollop"
 GITHUB_USERNAME = "klevermonicker"
 REPO_SSH_URL = f"git@github.com:{GITHUB_USERNAME}/{REPO_NAME}.git"
 REPO_PATH = os.path.expanduser(f"~/dancing_figs/{REPO_NAME}")  # Local path where repo will be cloned
