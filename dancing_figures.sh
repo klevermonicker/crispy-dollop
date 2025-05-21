@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Configuration
-REPO_NAME="bookish-octo-fortnight"
+REPO_NAME="crispy-dollop"
 GITHUB_USERNAME="klevermonicker"
-REPO_PATH="$HOME/projects/${REPO_NAME}"
+REPO_PATH="$HOME/code/${REPO_NAME}"
 
 # Commit patterns for 3 dancing stick figures (0=no commit, 1=light, 2=medium, 3=dark)
 # Each row represents a week, each digit represents a day (Sun to Sat)
